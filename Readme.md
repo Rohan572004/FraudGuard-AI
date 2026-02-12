@@ -21,4 +21,8 @@ A full-stack, end-to-end fraud monitoring dashboard that combines **Machine Lear
    - `uvicorn main:app --reload`
 3. **Frontend Setup**:
    - `cd frontend && npm install`
+
    - `npm start`
+
+
+<img width="1230" height="802" alt="Screenshot 2026-02-10 022933" src="https://github.com/user-attachments/assets/eb625d96-f01e-4e47-8ac2-6d042c3848a3" />
