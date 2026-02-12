@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+backenc/
+.env
+
+# Database
+*.sqlite3
+alembic.ini 
+
+# React
+frontend/node_modules/
+frontend/build/
+.DS_Store
+
+# datasets
+card_transdata.csv
